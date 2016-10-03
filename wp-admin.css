@@ -1,0 +1,94 @@
+/*********** STATS **********/
+.choice {
+    background-color:#b8d6f5;
+    border-right:1px solid white;
+    float:left;
+    width:24.8%;
+}
+.activity {
+    height:50px;
+    color:white;
+    font-size:8pt;
+    white-space:nowrap;
+}
+.choice-title {
+    text-align:center;
+    border-bottom:1px solid lightgrey;
+    padding:10px;
+    margin:0 0 0 0;
+    background-color:#fafafa;
+}
+
+
+/********* RESULTS *********/
+
+.schedules {
+    background-color:#fafafa;
+    width:500px;
+    text-align:center;
+    margin-bottom:15px;
+    text-align:left;
+}
+.schedules th {
+    background-color:#f0f0f0;
+}
+.schedules td, .schedules th {
+    padding:5px;
+    vertical-align:middle;
+}
+
+#display-infos {
+    width:500px;
+    background-color:#fafafa;
+    padding:10px;
+    margin:10px 0 10px 0;
+}
+#display-infos p {
+    padding:0;
+    margin:0 0 10px 0;
+}
+.display-element {
+    float:left;
+    margin:0 10px 0 10px;
+}
+
+#display-infos label {
+    margin-left:5px;
+}
+
+.result-table {
+    float:left;
+    margin:10px;
+    padding:10px;
+    background-color:#fafafa;
+    border:1px solid lightgrey;
+}   
+.quality {
+    width:60px;
+    text-align:center;
+}
+.worker {
+    width:200px;
+}
+.choice-1 {
+    background-color:#00601b;
+
+}
+.choice-2 {
+    background-color:#348a4d;
+}
+
+.choice-3 {
+    background-color:#7cd094;
+}
+
+.choice-4 {
+    background-color:#c0eccc;
+}
+
+.choice-x {
+    background-color:#ff0000;
+}
+.spacer {
+    clear:both;
+}

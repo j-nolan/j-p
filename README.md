@@ -28,5 +28,8 @@ This a variant of the [assignement problem](https://en.wikipedia.org/wiki/Assign
 The program solves this problem by using the Hungarian Algorithm.
 
 ## Screenshots
+### Assigning number of available places for each workshop and time slot
 ![Number of places per workshop and time slot](screenshots/assignement-table.png "Number of places per workshop and time slot")
+
+### Result table after assignement was performed
 ![Result table after assignement](screenshots/result-table.png "Result table")

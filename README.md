@@ -33,3 +33,10 @@ The program solves this problem by using the Hungarian Algorithm.
 
 ### Result table after assignement was performed
 ![Result table after assignement](screenshots/result-table.png "Result table")
+
+## Next steps
+The project is still a work in progress. The next steps are the following:
+
+1. Internationalization (for now, the program is written in french)
+2. Remove WordPress dependencies to work as a standalone library 
+3. Organization sources as a `composer` dependency

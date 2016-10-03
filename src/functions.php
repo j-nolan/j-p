@@ -7,23 +7,20 @@
 <?php
     // Display functions. Each screen has its own template that is called by
     // its corresponding function.
-    function display_jp_accueil() {
-        include( 'accueil.php' );
+    function display_jp_home() {
+        include( 'home.php' );
     }
     function display_jp_participants() {
-        include( 'liste-inscrits.php' );
+        include( 'list-subscriptions.php' );
     }
     function create_new_jp() {
         include( 'create-new-jp.php' );
     }
-    function download_jp_participants() {
-        include( 'download-inscrits.php' );
-    }
     function display_jp_statistiques() {
-        include( 'statistiques.php' );
+        include( 'statistics.php' );
     }
     function display_jp_repartition() {
-        include( 'generer.php' );
+        include( 'generate.php' );
     }
 
     // Get the event that is currently being used as the dataset. This function

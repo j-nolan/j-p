@@ -15,7 +15,7 @@
     }
     function create_new_jp() {
         include( 'create-new-jp.php' );
-    }
+    }   
     function display_jp_statistiques() {
         include( 'statistics.php' );
     }
